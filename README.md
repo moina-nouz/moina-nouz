@@ -40,7 +40,7 @@
 ![C](https://img.shields.io/badge/C-Novice-00599C?style=for-the-badge&logo=c&logoColor=white)
 ## 🎯 Objectifs 2025
 ```progressbar
-Python : 85
-R      : 65
+Python : 75
+R      : 85
 C      : 40
 ---
